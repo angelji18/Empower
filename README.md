@@ -1,7 +1,7 @@
 # Empower
 
 
-Basic code for moving and changing color of the plinth.
+Code for moving and changing color of the plinth.
 The token is moved acoss the map using the arrow keys and using keys "B" and "G" the density of the color of the plinth can be changed to show variation of ranges of fetecide across different counteries.
 Our main aim here was to show using UNITY what we would want to achieve on the hardware.
 the file NewBehavior has the code for color chage and
